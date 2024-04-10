@@ -1,0 +1,8 @@
+Samples of code written by Leila Grant for a Senior Thesis in partial fulfillment of the requirements for the degree of 
+Bachelor of Science in Engineering in the Civil and Environmental Engineering Department at Princeton University. 
+
+- - -
+
+Clements_2D_example.ipynb
+  sample of setup for model runs of different parameters applied to the base year 1985 (the low-precipitation year)
+  the same forcing parameters were applied to the other base years in the project, with the addition of low-precipitation forcing
