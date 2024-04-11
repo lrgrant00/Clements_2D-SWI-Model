@@ -1,1 +1,13 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
 
+cff-version: 1.2.0
+title: Clements_2D_example
+message: Provided for citation purposes.
+type: software
+authors:
+  - given-names: Leila
+    family-names: Grant
+    email: leilarg00@gmail.com
+    affiliation: Princeton University
+url: 'https://github.com/lrgrant00/Senior-Thesis/tree/main'
